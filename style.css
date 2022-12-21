@@ -9,7 +9,7 @@
 .firtSection {
   background-color: rgba(128, 128, 128, 0.158);
   margin: 1rem;
-  padding: 1rem;
+  padding: 0.5rem;
 }
 .logo {
   display: flex;
